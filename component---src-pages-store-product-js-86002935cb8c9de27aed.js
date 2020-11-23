@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{"8Dru":function(t,e,a){"use strict";a.r(e);var n=a("q1tI"),r=a.n(n),i=a("cl0r"),c=(a("Wbzz"),a("iagI")),l=a("463D"),u=a("Pu10");e.default=function(){return r.a.createElement(i.a,{max:"1240px"},r.a.createElement(u.a,{dataList:c.map((function(t){return{thumbnail:t.img,title:t.title,cta:r.a.createElement(l.a,{target:"_blank",href:t.href,label:"Get From Amazon"})}}))}))}}}]);
-//# sourceMappingURL=component---src-pages-store-product-js-86002935cb8c9de27aed.js.map
