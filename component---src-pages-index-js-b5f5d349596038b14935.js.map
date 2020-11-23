@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"4FAAA,4CAOeA,UAJF,WACX,OAAO,kBAAC,UAAD","file":"component---src-pages-index-js-b5f5d349596038b14935.js","sourcesContent":["import React from \"react\"\nimport Container from './qmdj/hour'\n\nconst Home = () => {\n  return <Container />\n}\n\nexport default Home\n"],"sourceRoot":""}
