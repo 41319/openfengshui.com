@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{Ikxc:function(n,e,t){"use strict";t.r(e);var c=t("q1tI"),a=t.n(c),r=t("cl0r");e.default=function(){return a.a.createElement(r.a,null)}}}]);
+//# sourceMappingURL=component---src-modules-fengshui-qmdj-js-8686f75c2aea5703734c.js.map

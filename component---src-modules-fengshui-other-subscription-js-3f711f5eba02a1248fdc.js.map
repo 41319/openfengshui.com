@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/modules/fengshui/other/subscription.js"],"names":["Component"],"mappings":"4FAAA,gCAMeA,UAJG,WAChB,OAAO","file":"component---src-modules-fengshui-other-subscription-js-3f711f5eba02a1248fdc.js","sourcesContent":["import React from \"react\"\n\nconst Component = () => {\n  return <>test</>\n}\n\nexport default Component\n"],"sourceRoot":""}

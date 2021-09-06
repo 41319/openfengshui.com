@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{Tpo8:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),o=e.n(a);t.default=function(){return o.a.createElement(o.a.Fragment,null,"test")}}}]);
+//# sourceMappingURL=component---src-modules-fengshui-other-subscription-js-3f711f5eba02a1248fdc.js.map
