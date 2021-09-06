@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{BGc1:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),c=e.n(a);t.default=function(){return c.a.createElement(c.a.Fragment,null,"test")}}}]);
+//# sourceMappingURL=component---src-pages-other-subscription-js-9bb04a417e23622a671f.js.map
