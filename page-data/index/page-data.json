@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-index-jsx","path":"/","result":{"pageContext":{"breadcrumb":{"location":"/","crumbs":[{"pathname":"/","crumbLabel":"Home"}]},"language":"en","i18n":{"language":"en","languages":["en","zh"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/","path":"/"}}},"staticQueryHashes":["1481202492","1723796209","1781465317","2467561228","2744905544","336284845","3759125156","4275141656","469050083","955665297"],"slicesMap":{}}
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": ["63159454"]}

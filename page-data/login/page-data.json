@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-login-jsx","path":"/login/","result":{"pageContext":{"breadcrumb":{"location":"/login/","crumbs":[{"pathname":"/","crumbLabel":"Home"},{"pathname":"/login","crumbLabel":"login"}]},"language":"en","i18n":{"language":"en","languages":["en","zh"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/login/","path":"/login/"}}},"staticQueryHashes":["1481202492","2744905544","336284845","469050083"],"slicesMap":{}}
+{
+    "componentChunkName": "component---src-pages-login-js",
+    "path": "/login/",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": ["63159454"]}
