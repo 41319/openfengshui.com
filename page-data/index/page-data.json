@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
+    "result": {"data":{"allPost":{"edges":[{"node":{"id":"1158897f-f460-5d79-8bfc-69bce4e9978b","data":{"content":"倪海厦 TCM Solution on TMJ disorders 三叉神经痛","title":"How TCM Fix TMJ 三叉神经","video":"//player.bilibili.com/player.html?isOutside=true&aid=219117158&bvid=BV1n8411s7de&cid=862300149&p=1&autoplay=0"},"createdAt":"Tue Aug 20 2024 12:54:34 GMT+0000 (Coordinated Universal Time)"}}]}},"pageContext":{}},
     "staticQueryHashes": ["63159454"]}
