@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allPost":{"edges":[{"node":{"id":"1158897f-f460-5d79-8bfc-69bce4e9978b","data":{"content":"倪海厦 TCM Solution on TMJ disorders 三叉神经痛","title":"How TCM Fix TMJ 三叉神经","video":"//player.bilibili.com/player.html?isOutside=true&aid=219117158&bvid=BV1n8411s7de&cid=862300149&p=1&autoplay=0"},"createdAt":"Tue Aug 20 2024 12:54:34 GMT+0000 (Coordinated Universal Time)"}}]}},"pageContext":{}},
+    "result": {"data":{"allPost":{"edges":[{"node":{"id":"0e2bfbc4-e423-5f72-abbb-9eb75d41d63a","data":{"content":"穴位 治便秘","title":"能治所有便秘，支沟穴、照海穴","video":"https://player.bilibili.com/player.html?isOutside=true&aid=572972184&bvid=BV1bz4y1n7KW&cid=1181827028&p=1&autoplay=0"},"createdAt":"Wed Aug 21 2024 07:47:32 GMT+0000 (Coordinated Universal Time)"}},{"node":{"id":"c1dfb3df-c79c-5ed8-a518-5baaba0fffb5","data":{"content":"倪海厦 TCM Solution on TMJ disorders 三叉神经痛","title":"How TCM Fix TMJ 三叉神经","video":"//player.bilibili.com/player.html?isOutside=true&aid=219117158&bvid=BV1n8411s7de&cid=862300149&p=1&autoplay=0"},"createdAt":"Tue Aug 20 2024 12:54:34 GMT+0000 (Coordinated Universal Time)"}}]}},"pageContext":{}},
     "staticQueryHashes": ["63159454"]}
