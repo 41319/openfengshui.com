@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-number-formula-js",
     "path": "/number-formula/",
-    "result": {"data":{"allPost":{"edges":[]}},"pageContext":{}},
+    "result": {"data":{"allPost":{"edges":[{"node":{"itemId":"JrWLBnrlAG","id":"27938389-6002-5890-aca8-e51e1c58113b","data":{"content":"象数的默念法\n1、2、3、4、5、6、7、8这八个数的读法同平常的读法完全一样，但1要默念成衣，不能默念成腰。配方中有0，仍读零，\n每秒钟默念一个数。较简单的配方是一元结构，如160或80；较复杂的配方，则是二元或三元结构，如640.20或者1260.380.50，有“· ”隔开的，要稍微停顿，时间为一秒。\n患者病愈后，可继续默念原配方，一可巩固疗效，二可健身。","title":"如何用数字方","video":null},"createdAt":"Mon Aug 26 2024 03:06:14 GMT+0000 (Coordinated Universal Time)"}}]}},"pageContext":{}},
     "staticQueryHashes": ["63159454"]}
