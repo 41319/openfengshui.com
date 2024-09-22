@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-post-js",
+    "path": "/post/",
+    "result": {"pageContext":{"matchPath":"/post/*"}},
+    "staticQueryHashes": ["63159454"],
+    "matchPath": "/post/*"}
